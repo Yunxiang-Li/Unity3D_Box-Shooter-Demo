@@ -23,16 +23,6 @@ Player can press wasd or arrow buttons to move the roller ball, player can also 
 
 ## Exhibition
 
-![Level One Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20fail.gif)
-
-![Level One Win](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1%20succed.gif)
-
-![Level Two Fail](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif)
-
-![Level One png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level1.PNG)
-
-![Level Two png](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/Screenshots%20and%20GIFs/Level2.PNG)
-
 ## Install
 
 I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 environment.<br>
@@ -42,7 +32,7 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity3D_Roller-Ball-Game** folder.
+1. Download this repo, open(or zip and open) the **Unity3D_Box-Shooter** folder.
 
 2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
@@ -50,7 +40,7 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file).
 
-5. For this game, just select the **Unity3D_Roller-Ball-Game** folder and open this project.
+5. For this game, just select the **Unity3D_Box-Shooter** folder and open this project.
 
 **If an error is threw out when you click next level button, go to File -> Build Settings, delete all scenes and put level One first and then level Two to rebuild, everything should be okay then.**
 
@@ -58,23 +48,27 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.
 
-Under **Assets** folder, there are altogether **8** subfolders:
+Under **Assets** folder, there are altogether **9** subfolders:
 
-1. Animation folder: contains animation for death zone.
+1. Animation folder: contains **3** animation for targets and one target animation controller.
 
-2. Audio folder: contains all **6** sounds files including background music, game over music, explosion music and so on.
+2. Audio folder: contains all **5** sounds files including background music, laser, bonus hit music and so on.
 
-3. Materials folder: contains all **6** materials need for player(the ball), enemies, coins and bumpers.
+3. Materials folder: contains all **8** materials need for player, targets, bumpers and so on.
 
 4. Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
 
-5. Prefabs folder: contains all **16** prefabs I will use in this game, including Enemy Spawner, Death Zone, Long Wall and so on.
+5. Prefabs folder: contains all **15** prefabs I will use in this game, including Projectile(bullet), Target Negative Explosion, Player and so on.
 
 6. Scences folder: contains **2** scenes, one for level one, the other one for level two.
 
-7. Scripts folder: contains all **10** customized C# scripts. I also use **3** scripts(SmoothFollow.cs, BallUserControl.cs and Ball.cs) from **Standard Assets** folder 's **Scripts** subfolder.
+7. Scripts folder: contains all **12** customized C# scripts. I also use several scripts(ContrastEnhance.cs, Bloom.cs and so on) from **Standard Assets** folder provided by Unity.
 
 8. Standard Assets folder: provided by Unity, this will be handy and help us a lot when creating a game demo.
+
+9. Textures folder: including textures for skybox and crosshair.
+
+10. Packages folder: provided by Unity, needed for the game.
 
 ## Maintainers
 
