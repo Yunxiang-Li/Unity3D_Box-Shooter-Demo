@@ -15,11 +15,11 @@ A simple box shooter game based on Unity3D game engine.
 - [License](#license)
 
 ## Background
-This is a very simple 3D roller ball game made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
+This is a very simple 3D box shooter game made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
 
-This game altogether has 2 levels. For each level, player needs to collect specific amount of coins to win the level, 5 coins need to be collected in level one and 10 coins need to be collected in level two.
+This game altogether has 2 levels. For each level, player needs to collect specific amount of scores(50 scores in both level) by shooting moving targets to win the level. Both levels have time limit, 15 seconds for level one and 10 seconds for level two. The player can shoot green targets to earn 5 scores each, shoot white targets to earn 3 seconds each and lose 3 seconds if shooting red targets.
 
-Player can press wasd or arrow buttons to move the roller ball, player can also press space button to jump only in level two. There will be enemies spawning and chasing the player(the ball), if player is collided with enemies or death zone or just jumping out of the map, then the player is dead.
+Player can press wasd or arrow buttons to move, player can also press left mouse button or space button to shoot. If time is up then the game ends, player can shoot rotating buttons to restart, go to next level or play again.
 
 ## Exhibition
 
