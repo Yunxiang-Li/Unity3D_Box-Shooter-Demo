@@ -68,8 +68,6 @@ Under **Assets** folder, there are altogether **9** subfolders:
 
 9. Textures folder: including textures for skybox and crosshair.
 
-10. Packages folder: provided by Unity, needed for the game.
-
 ## Maintainers
 
 [@Yunxiang-Li](https://github.com/Yunxiang-Li).
