@@ -23,6 +23,14 @@ Player can press wasd or arrow buttons to move, player can also press left mouse
 
 ## Exhibition
 
+![Level One Win](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level1%20win.gif)
+
+![Level Two Fail](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif)
+
+![Level One](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%201.PNG)
+
+![Level Two](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%202.PNG)
+
 ## Install
 
 I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 environment.<br>
