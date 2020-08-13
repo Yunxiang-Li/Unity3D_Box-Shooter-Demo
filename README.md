@@ -50,8 +50,6 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 5. For this game, just select the **Unity3D_Box-Shooter** folder and open this project.
 
-**If an error is threw out when you click next level button, go to File -> Build Settings, delete all scenes and put level One first and then level Two to rebuild, everything should be okay then.**
-
 ## Structure
 
 The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.
