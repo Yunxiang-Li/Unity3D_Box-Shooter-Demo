@@ -23,13 +23,13 @@ Player can press wasd or arrow buttons to move, player can also press left mouse
 
 ## Exhibition
 
-![Level One Win](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level1%20win.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level1%20win.gif"/> </div>
 
-![Level Two Fail](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level2%20fail.gif"/> </div>
 
-![Level One](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%201.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%201.PNG"/> </div>
 
-![Level Two](https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%202.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_Box-Shooter/blob/master/Screenshots%20and%20GIFs/Level%202.PNG"/> </div>
 
 ## Install
 
