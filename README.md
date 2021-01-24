@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A simple box shooter game based on Unity3D game engine.
+A simple box shooter game demo based on Unity3D game engine.
 
 ## Table of Contents
 
